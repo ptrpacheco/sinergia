@@ -1,7 +1,7 @@
-<h1 align=center>Sinergia </h1>
-<p align=center>Projeto realizado em 2025.</p>
+<h1 align=center>Sinergia • Controle de Pragas Urbanas</h1>
+<p align=center>Projeto realizado em 2025</p>
 <p align=center><a href="#️-sobre-o-projeto">Sobre</a>&nbsp&nbsp
-|&nbsp&nbsp<a href="#-desenvolvimento">Desenvolvimento</a>&nbsp&nbsp|&nbsp&nbsp<a href="#-tecnologias">Tecnologias</a>&nbsp&nbsp|&nbsp&nbsp
+|&nbsp&nbsp<a href="#-desenvolvimento">Desenvolvimento</a>&nbsp&nbsp|&nbsp&nbsp<a href="#-tecnologias">Tecnologias</a>
 
 <p align=center>
     <img alt="Sinergia" src=".github/preview.png">
